@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "kamomek2",
+    "repo": "oracle-test",
+    "branch": "master"
+  },
+  "name": "oracle-test",
+  "description": "",
+  "version": "1.0.0",
+  "projectId": 1002
+}
